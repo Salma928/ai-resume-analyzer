@@ -1,4 +1,4 @@
-# 🧠 AI Resume Analyzer
+#  AI Resume Analyzer
 
 An AI-powered resume analyzer built with Streamlit and LLaMA 3 (via Groq API).
 
